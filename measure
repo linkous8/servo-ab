@@ -13,7 +13,7 @@ from threading import Timer
 
 DESC="Apache Benchmark measure driver for Opsani Optune"
 VERSION="1.0.0"
-HAS_CANCEL=True
+HAS_CANCEL=False
 PROGRESS_INTERVAL=30
 
 DFLT_LOAD_CFG = {
